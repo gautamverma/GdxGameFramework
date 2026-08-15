@@ -1,0 +1,68 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/transforms-3/4935fb8d9c2a767f982a3a15c6782cf5/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:3:5-68
+	android:name
+		ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:3:22-65
+application
+ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:5:5-20:19
+INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:5:5-20:19
+	android:extractNativeLibs
+		INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:9:9-40
+activity#gautambverma.gdx.android.AndroidLauncher
+ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:10:9-19:20
+	android:screenOrientation
+		ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:12:13-49
+	android:exported
+		ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:14:13-36
+	android:configChanges
+		ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:13:13-83
+	android:name
+		ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:11:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml
+INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/transforms-3/4935fb8d9c2a767f982a3a15c6782cf5/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/transforms-3/4935fb8d9c2a767f982a3a15c6782cf5/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/transforms-3/4935fb8d9c2a767f982a3a15c6782cf5/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/transforms-3/4935fb8d9c2a767f982a3a15c6782cf5/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/transforms-3/4935fb8d9c2a767f982a3a15c6782cf5/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:11:9-32

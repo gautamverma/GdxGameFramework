@@ -1,0 +1,13 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
+rootProject.name = 'GdxGameFramework'
+include ':core'
+include ':android'
+include ':games:spaceinvaders'
+include ':games:platformer'

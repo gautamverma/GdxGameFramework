@@ -1,0 +1,7 @@
+gautambverma.gdx.android-pngs-0 /local/home/gautamve/workspace/personal/GdxGameFramework/android/build/generated/res/pngs/debug
+gautambverma.gdx.android-resValues-1 /local/home/gautamve/workspace/personal/GdxGameFramework/android/build/generated/res/resValues/debug
+gautambverma.gdx.android-packageDebugResources-2 /local/home/gautamve/workspace/personal/GdxGameFramework/android/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+gautambverma.gdx.android-packageDebugResources-3 /local/home/gautamve/workspace/personal/GdxGameFramework/android/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+gautambverma.gdx.android-merged_res-4 /local/home/gautamve/workspace/personal/GdxGameFramework/android/build/intermediates/merged_res/debug
+gautambverma.gdx.android-debug-5 /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/debug/res
+gautambverma.gdx.android-main-6 /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/res

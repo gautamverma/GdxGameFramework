@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "gautambverma.gdx.android-merged_res-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "73",
+                        "endOffsets": "124"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endColumns": "73",
+                        "endOffsets": "171"
+                    }
+                },
+                {
+                    "source": "/local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    }
+                }
+            ]
+        }
+    ]
+}
