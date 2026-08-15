@@ -4,7 +4,7 @@ ADDED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/
 INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml:2:1-21:12
-MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/transforms-3/4935fb8d9c2a767f982a3a15c6782cf5/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/8.13/transforms/8701ac0d96ff757669633aa62923a829/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:2:1-13:12
 	package
 		INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml
 	android:versionName
@@ -54,15 +54,15 @@ uses-sdk
 INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml
 INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml
-MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/transforms-3/4935fb8d9c2a767f982a3a15c6782cf5/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/transforms-3/4935fb8d9c2a767f982a3a15c6782cf5/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/8.13/transforms/8701ac0d96ff757669633aa62923a829/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/8.13/transforms/8701ac0d96ff757669633aa62923a829/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:5:5-7:41
 	android:targetSdkVersion
 		INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /local/home/gautamve/workspace/personal/GdxGameFramework/android/src/main/AndroidManifest.xml
 uses-feature#0x00020000
-ADDED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/transforms-3/4935fb8d9c2a767f982a3a15c6782cf5/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:9:5-11:35
+ADDED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/8.13/transforms/8701ac0d96ff757669633aa62923a829/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:9:5-11:35
 	android:glEsVersion
-		ADDED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/transforms-3/4935fb8d9c2a767f982a3a15c6782cf5/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:10:9-41
+		ADDED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/8.13/transforms/8701ac0d96ff757669633aa62923a829/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:10:9-41
 	android:required
-		ADDED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/transforms-3/4935fb8d9c2a767f982a3a15c6782cf5/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:11:9-32
+		ADDED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /local/home/gautamve/.gradle/caches/8.13/transforms/8701ac0d96ff757669633aa62923a829/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:11:9-32
